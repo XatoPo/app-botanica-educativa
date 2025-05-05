@@ -46,7 +46,7 @@ export function Hero() {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-white text-white hover:bg-white/20 w-full sm:w-auto transition-all duration-300 hover:translate-y-[-2px] hover:shadow-lg"
+                className="bg-slate-950 border-white text-white hover:bg-white/20 w-full sm:w-auto transition-all duration-300 hover:translate-y-[-2px] hover:shadow-lg"
               >
                 Flores
               </Button>

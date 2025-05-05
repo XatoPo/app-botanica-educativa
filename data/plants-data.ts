@@ -18,7 +18,7 @@ export const fruitTrees: FruitTree[] = [
     plantingSeason: "Primavera",
     harvestSeason: "Invierno",
     fruitType: "Hesperidio",
-    imageUrl: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?q=80&w=2070&auto=format&fit=crop",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/b/b0/OrangeBloss_wb.jpg",
     wikiUrl: "https://es.wikipedia.org/wiki/Citrus_%C3%97_sinensis",
   },
   {
@@ -91,7 +91,7 @@ export const flowers: Flower[] = [
     plantingSeason: "Primavera",
     bloomingSeason: "Variable (según especie)",
     color: "Variado (blanco, rosa, púrpura, amarillo)",
-    imageUrl: "https://images.unsplash.com/photo-1566907225472-514215c9e5cd?q=80&w=2070&auto=format&fit=crop",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Labiata.jpg/1024px-Labiata.jpg",
     wikiUrl: "https://es.wikipedia.org/wiki/Orchidaceae",
   },
   {

@@ -56,7 +56,7 @@ export function BotanicalConcepts() {
         style={{ animationDelay: "0.2s" }}
         onValueChange={setActiveTab}
       >
-        <TabsList className="grid grid-cols-2 md:grid-cols-5 mb-6">
+        <TabsList className="grid grid-cols-2 md:grid-cols-5 mb-6 gap-5 overflow-x-auto scrollbar-hide">
           <TabsTrigger
             value="tallo"
             className="transition-all duration-300 data-[state=active]:bg-amber-600 data-[state=active]:text-white"
