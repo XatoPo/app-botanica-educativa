@@ -101,7 +101,7 @@ export const flowers: Flower[] = [
     plantingSeason: "Primavera - Otoño",
     bloomingSeason: "Verano",
     color: "Púrpura - Violeta",
-    imageUrl: "https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?q=80&w=2070&auto=format&fit=crop",
+    imageUrl: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCf8p8d3z8xhdLWeOPf1-Do3szcqOFRxz4UiR8q3ND-hTbrpxzFap9bXmcqfPPxawgIyJ-VVpLnvnnVvgVEomf5w",
     wikiUrl: "https://es.wikipedia.org/wiki/Lavandula_angustifolia",
   },
 ]
